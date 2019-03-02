@@ -1,0 +1,3 @@
+## dataAnalysis ignore file ##
+*.ipynb_checkpoints
+/tools/
